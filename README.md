@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaintStaunch
-- 👀 I’m interested in ...info sec, capture the flag and call of duty.
-- 🌱 I’m currently learning ...pen testing
+- 👀 I’m interested in ...info-sec, capture the flag and call of duty.
+- 🌱 I’m currently learning ...pen-testing
 - 💞️ I’m looking to collaborate on ...cheap and affordable info sec for not for profit organisations
 - 📫 How to reach me ...@SaintStaunch on twitter
 

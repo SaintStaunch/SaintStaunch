@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...info-sec, capture the flag and call of duty.
 - 🌱 I’m currently learning ...pen-testing
 - 💞️ I’m looking to collaborate on ...cheap and affordable info sec for not for profit organisations
-- 📫 How to reach me ...@SaintStaunch on twitter
+- 📫 How to reach me ...tigerwolf@duck.com
 
 <!---
 SaintStaunch/SaintStaunch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
